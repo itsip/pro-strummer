@@ -17,3 +17,5 @@ print('Key: ', key)
 print('Chords:', select_chords)
 
 print('# Strums: ', random.randint(4, 8))
+
+print('Tempo', random.randint(70, 160))
